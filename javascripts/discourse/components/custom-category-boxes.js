@@ -29,7 +29,8 @@ export default Component.extend({
       settings.second_categories ||
       settings.third_categories ||
       settings.fourth_categories ||
-      settings.fifth_categories
+      settings.fifth_categories ||
+      settings.sixth_categories
     ) {
       hasCategoriesSet = true;
     }

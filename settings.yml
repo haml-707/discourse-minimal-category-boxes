@@ -38,3 +38,8 @@ fifth_categories:
   list_type: category
   default: ""
   description: "Choose the categories to feature under the Fifth Header"
+sixth_categories:
+  type: list
+  list_type: category
+  default: ""
+  description: "Choose the categories to feature under the Sixth Header"
